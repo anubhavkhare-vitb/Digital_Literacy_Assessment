@@ -33,6 +33,7 @@ digital-literacy-project/
 ├── task-2-portfolio/
 │   └── Github
         └Github_Profile_AnubhavKhare.png
+        └Github_Personal_repository.png
     └──LinkedIn
        └─ProfilePics.png
     └──StackOverflow
